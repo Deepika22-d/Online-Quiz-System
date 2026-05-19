@@ -30,3 +30,60 @@ This project allows users to attend quizzes online while enabling administrators
 | 🎨 CSS | Styling & Design |
 | ⚡ JavaScript | Interactivity |
 | 🖥️ XAMPP | Local Server Environment |
+
+
+---
+
+## 📂 Project Modules
+
+### 👤 User Module
+- User Registration
+- User Login
+- Attend Quiz
+- View Result
+
+---
+
+### 🛠️ Admin Module
+- Add Questions
+- Manage Quiz
+- View Scores
+
+---
+
+### 🗄️ Database Module
+- Store User Details
+- Store Quiz Questions
+- Save Results
+
+---
+
+### 🎨 Frontend
+- Simple User Interface
+- Responsive Design
+
+---
+
+### ⚙️ Backend
+- Process Quiz Answers
+- Calculate Scores
+- Connect Database
+
+---
+## 🌍 Applications
+
+- 🏫 Schools and Colleges
+- 📚 Online Learning Platforms
+- 💼 Online Examination Systems
+- 🧑‍💻 Technical Quiz Platforms
+- 🏢 Company Training Programs
+
+---
+
+## 📌 Conclusion
+
+The Online Quiz System is a simple and efficient platform for conducting online quizzes and examinations.
+
+It helps reduce manual work, provides quick result generation, and improves the overall user experience through digital quiz management.
+
+---
