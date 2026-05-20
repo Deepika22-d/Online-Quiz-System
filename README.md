@@ -5,6 +5,9 @@
 An interactive and user-friendly **Online Quiz System** developed using **PHP, MySQL, HTML, CSS, and JavaScript**.  
 This project allows users to attend quizzes online while enabling administrators to manage questions, users, and quiz results efficiently.
 
+🎥 **Demo Video:**  
+[Watch Demo Video](https://drive.google.com/file/d/1vLwFcaPw1tDGR5ZRy2xB-7WYTkqZmKfn/view?usp=sharing)
+
 ---
 
 ## ✨ Features
@@ -30,7 +33,6 @@ This project allows users to attend quizzes online while enabling administrators
 | 🎨 CSS | Styling & Design |
 | ⚡ JavaScript | Interactivity |
 | 🖥️ XAMPP | Local Server Environment |
-
 
 ---
 
@@ -70,6 +72,7 @@ This project allows users to attend quizzes online while enabling administrators
 - Connect Database
 
 ---
+
 ## 🌍 Applications
 
 - 🏫 Schools and Colleges
